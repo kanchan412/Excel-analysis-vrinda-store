@@ -69,22 +69,10 @@ The dashboard provides insights such as:
 ---
 
 ## 📷 Dashboard Preview
+<img width="1754" height="904" alt="Screenshot 2026-05-23 213000" src="https://github.com/user-attachments/assets/74887205-71d9-4d31-8e8e-bbefbf173a52" />
+<img width="1480" height="774" alt="Screenshot 2026-05-23 201638" src="https://github.com/user-attachments/assets/907e8a9a-5db3-4027-8459-ccc590b15870" />
 
-Add your dashboard screenshots inside a folder named:
 
-```bash
-Dashboard Screenshots
-```
-
-Then display them here.
-
-Example:
-
-```markdown
-![Dashboard](Dashboard%20Screenshots/dashboard.png)
-```
-
----
 
 ## 🎯 Learning Outcomes
 
